@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCode\\Uni\\Prog Distribuida\\CSharpTest\\CSharpTest\\CS.CSTest\\CSharpTest\\CSharpTest.csproj": {}
+    "d:\\VSCode\\Uni\\Prog Distribuida\\CSharpTest\\CSharpTest\\CS.CSTest\\CSharpTest\\CSharpTest.csproj": {}
   },
   "projects": {
-    "D:\\VSCode\\Uni\\Prog Distribuida\\CSharpTest\\CSharpTest\\CS.CSTest\\CSharpTest\\CSharpTest.csproj": {
+    "d:\\VSCode\\Uni\\Prog Distribuida\\CSharpTest\\CSharpTest\\CS.CSTest\\CSharpTest\\CSharpTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCode\\Uni\\Prog Distribuida\\CSharpTest\\CSharpTest\\CS.CSTest\\CSharpTest\\CSharpTest.csproj",
+        "projectUniqueName": "d:\\VSCode\\Uni\\Prog Distribuida\\CSharpTest\\CSharpTest\\CS.CSTest\\CSharpTest\\CSharpTest.csproj",
         "projectName": "CSharpTest",
-        "projectPath": "D:\\VSCode\\Uni\\Prog Distribuida\\CSharpTest\\CSharpTest\\CS.CSTest\\CSharpTest\\CSharpTest.csproj",
+        "projectPath": "d:\\VSCode\\Uni\\Prog Distribuida\\CSharpTest\\CSharpTest\\CS.CSTest\\CSharpTest\\CSharpTest.csproj",
         "packagesPath": "C:\\Users\\Mateo Pillajo\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCode\\Uni\\Prog Distribuida\\CSharpTest\\CSharpTest\\CS.CSTest\\CSharpTest\\obj\\",
+        "outputPath": "d:\\VSCode\\Uni\\Prog Distribuida\\CSharpTest\\CSharpTest\\CS.CSTest\\CSharpTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mateo Pillajo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,6 +50,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.0, 8.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -59,6 +65,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }
