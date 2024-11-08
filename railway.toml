@@ -3,6 +3,6 @@ builder = "dockerfile"
 dockerfile = "./Dockerfile"
 
 [deploy]
-startCommand = "./CSharpTest"
+startCommand = "dotnet", "CSharpTest.dll"
 restartPolicyType = "always"
 healthcheckPath = "/health"
