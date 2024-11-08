@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0kQnpUmK2fkrFFhEBbIrGo+O/m9530C3ZBaf2rmi9DAXbs2zgO23U6PtiwRvuO/oVDoWokS3QWIUEIETwKnr2g==",
+  "dgSpecHash": "OSl36lAQCK2Q19KAy0RFlDaR1RoZHBUbrhiclhHtDmB/S4vi1s64GitQI4bUouEPc1zmYqXJWX5TNlnArNSApQ==",
   "success": true,
-  "projectFilePath": "D:\\VSCode\\Uni\\Prog Distribuida\\CSharpTest\\CSharpTest\\CS.CSTest\\CSharpTest\\CSharpTest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "d:\\VSCode\\Uni\\Prog Distribuida\\CSharpTest\\CSharpTest\\CS.CSTest\\CSharpTest\\CSharpTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mateo Pillajo\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.0\\microsoft.netcore.app.host.linux-x64.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

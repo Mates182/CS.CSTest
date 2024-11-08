@@ -1,0 +1,7 @@
+d:\VSCode\Uni\Prog Distribuida\CSharpTest\CSharpTest\CS.CSTest\CSharpTest\bin\Debug\net8.0\linux-x64\publish\CSharpTest
+d:\VSCode\Uni\Prog Distribuida\CSharpTest\CSharpTest\CS.CSTest\CSharpTest\bin\Debug\net8.0\linux-x64\publish\appsettings.Development.json
+d:\VSCode\Uni\Prog Distribuida\CSharpTest\CSharpTest\CS.CSTest\CSharpTest\bin\Debug\net8.0\linux-x64\publish\appsettings.json
+d:\VSCode\Uni\Prog Distribuida\CSharpTest\CSharpTest\CS.CSTest\CSharpTest\bin\Debug\net8.0\linux-x64\publish\CSharpTest.dll
+d:\VSCode\Uni\Prog Distribuida\CSharpTest\CSharpTest\CS.CSTest\CSharpTest\bin\Debug\net8.0\linux-x64\publish\CSharpTest.deps.json
+d:\VSCode\Uni\Prog Distribuida\CSharpTest\CSharpTest\CS.CSTest\CSharpTest\bin\Debug\net8.0\linux-x64\publish\CSharpTest.runtimeconfig.json
+d:\VSCode\Uni\Prog Distribuida\CSharpTest\CSharpTest\CS.CSTest\CSharpTest\bin\Debug\net8.0\linux-x64\publish\CSharpTest.pdb

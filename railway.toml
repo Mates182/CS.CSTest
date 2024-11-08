@@ -1,0 +1,8 @@
+[build]
+builder = "dockerfile"
+dockerfile = "./CSharpTest/Dockerfile"
+
+[deploy]
+startCommand = "./CSharpTest"
+restartPolicyType = "always"
+healthcheckPath = "/health"
